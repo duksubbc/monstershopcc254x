@@ -1,0 +1,12 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*.d51
+*.hex
+*.map
+*.pbi
+*.cout
+*.r51
+*.pbd
+*.browse
+/Projects/ble/HIDEmuKbm/CC2540DB
+/Projects/ble/HIDEmuKbm/CC2541DB/settings
+/Projects/ble/HIDEmuKbm/CC2541DB/CC2541DK-MINI Keyfob Slave
